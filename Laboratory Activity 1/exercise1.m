@@ -15,4 +15,4 @@ figure(2), imshow('fruits2.png')
 
 RGB2HSV = rgb2hsv(Img2); #convert from its color RGB image to HSV
 imwrite(RGB2HSV, 'fruits3.png');
-figure(3), imshow('fruits3.png');
+figure(3), imshow('fruits3.png')
